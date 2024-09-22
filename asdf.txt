@@ -1,0 +1,4 @@
+00000000004004c0 t deregister_tm_clones
+0000000000400530 t __do_global_dtors_aux
+0000000000400550 t frame_dummy
+00000000004004f0 t register_tm_clones
